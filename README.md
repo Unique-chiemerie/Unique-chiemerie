@@ -5,6 +5,5 @@ An alien living amidst the human chaos ![I draw sometimes](https://cdn-icons-png
  ![dart](https://img.icons8.com/?size=2x&id=7AFcZ2zirX6Y&format=png) Dart
  ![vscode](https://img.icons8.com/?size=2x&id=9OGIyU8hrxW5&format=png)VSCode
 ![as](https://img.icons8.com/?size=2x&id=04OFrkjznvcd&format=png)android studio,
- rive,
-![riverp]()riverpod**
+Riverpod and Rive**
 - vibe  with me on [twitter](https://twitter.com/LilMations).
